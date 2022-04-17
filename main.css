@@ -167,23 +167,7 @@
     font-size: small;
     font-weight: 600;
   }
- 
-.kili
-{
-  width: 100%;
-  background-color: black;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
-.kill
-{
- 
-  width: 90ch;
-  color: #ccc;
-  background-color: aqua;
-  
-}
+
 .grido
 {
   display: flex;
